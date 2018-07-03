@@ -8,8 +8,12 @@
 ## git commit -am 'tercer commit'
 ## git checkout c9d8a0a4850e1ddf2104ae68e7289a6934266493
 
+<<<<<<< HEAD
 ## git -b checkout nueva-rama
 ## git log
 
 ## git checkout -b nueva-funcionalidad
 ## git branch
+=======
+## git checkout -b nueva-funcionalidadxxxxx
+>>>>>>> nueva-funcionalidad
