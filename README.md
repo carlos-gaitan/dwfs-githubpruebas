@@ -15,6 +15,6 @@
 ## git branch
 ##
 ## git checkout -
-## git commit -a -amend
+## git commit -a -amed
 ##
 ## git blame
